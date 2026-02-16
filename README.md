@@ -1,11 +1,11 @@
 # Sales_EDA_Project
 it is a Data visualization Project
 Student Performance Analysis Using Python
-##Project Overview
+# Project Overview
 
 This project analyzes student performance based on attendance, marks, and grades using Python. It demonstrates how data cleaning, analysis, and visualization can help identify patterns and insights in academic performance.
 
-**Objectives**
+## Objectives
 
 Analyze performance using attendance and marks
 
