@@ -1,4 +1,4 @@
-# Sales_EDA_Project
+# Student_Data_Project
 it is a Data visualization Project
 Student Performance Analysis Using Python
 # Project Overview
