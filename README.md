@@ -15,7 +15,7 @@ Study marks distribution
 
 Explore the relationship between attendance and performance
 
-Tools and Technologies
+## Tools and Technologies
 
 Python
 
@@ -27,7 +27,7 @@ Matplotlib
 
 Seaborn
 
-Dataset
+## Dataset
 
 The dataset includes:
 
@@ -41,7 +41,7 @@ Ensure the dataset path is correctly set:
 
 df = pd.read_csv("student_dataset.csv")
 
-Workflow
+## Workflow
 
 Load and inspect data
 
@@ -51,7 +51,7 @@ Create a Result column (Pass/Fail)
 
 Visualize data using charts and plots
 
-Key Insights
+## Key Insights
 
 Higher attendance often relates to better marks
 
@@ -59,6 +59,6 @@ Most students fall within a mid-range score
 
 Clear variation exists in student performance
 
-Conclusion
+## Conclusion
 
 The project shows how data visualization and analysis can be used to evaluate student performance and support academic decision-making.
